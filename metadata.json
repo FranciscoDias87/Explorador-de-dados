@@ -1,0 +1,6 @@
+{
+  "name": "Explorador de Dados",
+  "description": "Aplicativo interativo para estudantes aprenderem análise exploratória de dados, formulários digitais, planilhas e Python no Google Colab de forma gamificada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
